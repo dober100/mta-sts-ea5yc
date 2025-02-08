@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx1.ea5yc.com
+mx: oxse3a.privateemail.com
 max_age: 1209600
